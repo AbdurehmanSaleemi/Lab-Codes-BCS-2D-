@@ -1,0 +1,6 @@
+5
+Ali 76000 9
+Ahmed 27000 3
+Sara 58000 12
+Alishba 160000 13
+Asma 40000 6
