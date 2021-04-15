@@ -9,9 +9,9 @@ int main()
 
     for (int i = 0; i < 4; i++)
     {
-        std::cout << "Enter length of Rectangle " << i << " : ";
+        std::cout << "Enter length of Rectangle " << i << ": ";
         std::cin >> length;
-        std::cout << "Enter width of Rectangle " << i << " : ";
+        std::cout << "Enter width of Rectangle " << i << ": ";
         std::cin >> width;
 
         rec[i].setLength(length);
