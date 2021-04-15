@@ -9,5 +9,5 @@ class Array
     int getArr(int index);
     void printArr();
     Array();
-    Array(const int X);
+    Array(int X[]);
 };

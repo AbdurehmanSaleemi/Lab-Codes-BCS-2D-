@@ -19,3 +19,18 @@ void Array::printArr()
     }
 }
 
+Array::Array()
+{
+    for (int i = 0; i < 10; i++)
+    {
+        setArr(arr, i);
+    }
+}
+
+Array::Array(int X[])
+{
+    for (int i = 0; i < 10; i++)
+    {
+        setArr(X, i);
+    }
+}
